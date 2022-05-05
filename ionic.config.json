@@ -1,0 +1,7 @@
+{
+  "name": "maquiagemApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
